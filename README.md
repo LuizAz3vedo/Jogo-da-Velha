@@ -17,4 +17,4 @@ tentar formar uma linha de três símbolos iguais em um tabuleiro 3x3.</p>
   <li>script.js: Contém a lógica do jogo, incluindo a detecção de vencedores e a mudança de turno.</li>
 </ul>
 
-<h3>Página: https://luizaz3vedo.github.io/Jogo-da-Velha/<h3>
+<h3>Página: https://luizaz3vedo.github.io/Jogo-da-Velha/</h3>
